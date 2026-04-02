@@ -1,5 +1,4 @@
-
-ProsusAI FinBERT API
+# ProsusAI FinBERT API
 
 The ProsusAI FinBERT API is a financial sentiment analysis API powered by FinBERT — a BERT-based model fine-tuned on financial text. It analyzes financial statements, news headlines, and market commentary, and returns structured sentiment predictions with confidence scores.
 
